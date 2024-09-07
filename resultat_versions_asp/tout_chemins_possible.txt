@@ -1,0 +1,141 @@
+RECHERCHE NIVEAU 1 :
+--------------------------------
+gbggggggbbgbbddhhddddbd
+bgggggggbbgbbddhhddddbd
+gbbbgggggbgbbddhhddddbd
+bgbbgggggbgbbddhhddddbd
+gbggbggggbgbbddhhddddbd
+bgggbggggbgbbddhhddddbd
+gbggggbbgbgbbddhhddddbd
+bgggggbbgbgbbddhhddddbd
+
+temps :  0.2786173
+
+RECHERCHE NIVEAU 2 :
+--------------------------------
+hhdhhhhdddbddbbbbggb
+hdhhhhhdddbddbbbbggb
+dhhhhhhdddbddbbbbggb
+
+temps :  1.0171289
+
+RECHERCHE NIVEAU 3 :
+--------------------------------
+gggggbbbbgghbddddddddhhhhhh
+
+temps :  8.5845816
+
+RECHERCHE NIVEAU 4 :
+--------------------------------
+bbbdbbdddhgghhdbbdddb
+bbbdbbdhhdbbdhhddbbddhh
+
+temps :  1.7013199000000014
+
+RECHERCHE NIVEAU 5 :
+--------------------------------
+bbbbddhdddbhghhgghhhh
+bbbbddhdddbhghhgghhhhd
+bbbbddhdddbhghhgghhhhb
+bbbbddhdddbhghhgghhdhh
+bbbbddhdddbhghhgghhhdh
+bbbbddhdddbhghhgghhhdd
+bbbbdddhddbhghhghhghhdh
+bbbbdddhddbhghghhhghhdh
+bbbbdddhddbhgghhghghhdh
+bbbbdddhddbhgghhdhghhdh
+bbbbdddhddbhgghghhghhdh
+bbbbdddhddbhgghdhhghhdh
+bbbbddddhdbhgghhhhghhdh
+bbbbdddddbhhhghhgghhh
+bbbbdddddbhhhhghgghhh
+bbbbddhdddbhhhhhgghhh
+bbbbdddddhbhhhghgghhdd
+bbbbdddddhbhhghhgghhdd
+bbbbdddddhbhhhghgghhdh
+bbbbdddddhbhhghhgghhdh
+bbbbdddddhbhhhghgghdhh
+bbbbdddddhbhhghhgghdhh
+bbbbdddddhbhhhghgghhh
+bbbbdddddhbhhhghgghhhd
+bbbbdddddhbhhghhgghhh
+bbbbdddddhbhhghhgghhhd
+bbbbdddddhbhhhghgghhhb
+bbbbdddddhbhhghhgghhhb
+bbbbdddddhbhhhhgghhh
+bbbbdddddhbhhhhhgghhh
+bbbbdddddhbhhhhgbghhh
+bbbbdddddhbhhhhghghhh
+
+temps :  1.6479292
+
+RECHERCHE NIVEAU 6 :
+--------------------------------
+gbddbbggbggbdbdddhhggbbbbddddhhddddbbggbb
+gbddbbggbggbbddddhhggbbbbddddhhddddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddhddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhddhddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddbddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhddbddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhdddhdbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhdddhdbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhdddbdbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhdddbdbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbgggbb
+gbddbbggbggbbddddhhggbbbbdddhhddddbbgggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbggbdb
+gbddbbggbggbbddddhhggbbbbdddhhddddbbggbdb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbggbdd
+gbddbbggbggbbddddhhggbbbbdddhhddddbbggbdd
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbggbbd
+gbddbbggbggbbddddhhggbbbbdddhhddddbbggbbd
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhddddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbggbbh
+gbddbbggbggbbddddhhggbbbbdddhhddddbbggbbh
+gbddbbggbggbdbdddhhbggbbbdddhhddddbbggbb
+gbddbbggbggbbddddhhbggbbbdddhhddddbbggbb
+gbddbbggbggbdbdddhhgbgbbbdddhhddddbbggbb
+gbddbbggbggbbddddhhgbgbbbdddhhddddbbggbb
+gbddbbggbggbddddhhggbbbbbdddhhddddbbggbb
+gbddbbggbggbddddhhgbgbbbbdddhhddddbbggbb
+gbddbbggbggbddddhhbggbbbbdddhhddddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhdddddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhdddddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbdbggbb
+gbddbbggbggbbddddhhggbbbbdddhhddddbdbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhddddbbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhddddbbgbgbb
+gbddbbggbggbbddddhhggbbbbdddhhddddbbgbgbb
+gbddbbggbggbdbdddhhggbbbbdddhdhddddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhdhddddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhhddddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhhddddbbggbb
+gbddbbggbggbdbdddhhggbbbbdddhhdhdddbbggbb
+gbddbbggbggbbddddhhggbbbbdddhhdhdddbbggbb
+
+temps :  11.575805
+
+RECHERCHE NIVEAU 7 :
+--------------------------------
+hhbgghhdbbbggghhhhddhbddddhhddhh
+hhbgghhdbbbggghhhhdddhbdddhhddhh
+
+temps :  7.822179600000002
+
+RECHERCHE NIVEAU 8 :
+--------------------------------
+ghhhhhhhhhdd
+hghhhhhhhhdd
+dhhhhhhhhhgg
+hdhhhhhhhhgg
+
+temps :  0.19610529999999926
+
+RECHERCHE NIVEAU 9 :
+--------------------------------
+dhhddddbddghhhddddbbddhhdggghhhgh
+dhhddddhbddghhddddbbddhhdggghhhgh
+
+temps :  6.324481800000001

@@ -1,0 +1,10 @@
+Corridor with a bloc
+5
+###
+# #
+#H#
+# #
+#B#
+# D#
+# #
+###

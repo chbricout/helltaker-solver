@@ -1,0 +1,10 @@
+Corridor with a mob
+7
+###
+# #
+#H#
+# #
+#M#
+# #
+# D#
+###

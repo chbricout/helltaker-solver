@@ -1,0 +1,44 @@
+RECHERCHE NIVEAU 1 :
+--------------------------------
+gbggggggbbgbbddhhddddbd
+temps :  0.24765079999999998
+
+RECHERCHE NIVEAU 2 :
+--------------------------------
+hhdhhhhdddbddbbbbggb
+temps :  0.35001319999999997
+
+RECHERCHE NIVEAU 3 :
+--------------------------------
+gggggbbbbgghbddddddddhhhhhh
+temps :  11.5905289
+
+RECHERCHE NIVEAU 4 :
+--------------------------------
+bbbdbbdddhgghhdbbdddb
+temps :  1.2127941
+
+RECHERCHE NIVEAU 5 :
+--------------------------------
+bbbbdddddbhhhhghgghhh
+temps :  1.3632682999999997
+
+RECHERCHE NIVEAU 6 :
+--------------------------------
+gbddbbggbggbbddddhhggbbbbdddhhdhdddbbggbb
+temps :  13.8540765
+
+RECHERCHE NIVEAU 7 :
+--------------------------------
+hhbgghhdbbbggghhhhddhbddddhhddhh
+temps :  7.636000300000003
+
+RECHERCHE NIVEAU 8 :
+--------------------------------
+hdhhhhhhhhgg
+temps :  0.22864570000000128
+
+RECHERCHE NIVEAU 9 :
+--------------------------------
+dhhddddbddghhhddddbbddhhdggghhhgh
+temps :  7.966604799999999
